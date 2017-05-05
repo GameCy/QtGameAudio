@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Res/punch.wav</file>
+        <file>Res/paahh.wav</file>
+        <file>Res/buzzer.wav</file>
+        <file>Res/laugh.wav</file>
+        <file>Res/trumpet.wav</file>
+        <file>Res/music.wav</file>
+    </qresource>
+</RCC>
