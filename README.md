@@ -5,7 +5,7 @@ It is light as it only uses QAudioOutput. It does not use the QMediaPlayer class
 
 
 Usage is very simple:
-
+/*
 AudioManager* audioMan = new AudioManager();
 sample = new AudioSample(this, audioMan.Get(samplePath));
 
@@ -14,6 +14,7 @@ sample.Loop(true);
 
 // to start playing
 sample.Start()
+*/
 
 //* ------------
 //the remaining funcionality of the sample
